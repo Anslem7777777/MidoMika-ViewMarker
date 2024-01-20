@@ -1,0 +1,4 @@
+name: MidoMika-ViewMarker
+version: '${project.version}'
+main: me.mika.midomikaviewmarker.MidoMika_ViewMarker
+api-version: '1.19'

@@ -1,0 +1,4 @@
+name: MidoMika-ViewMarker
+version: '1.0-SNAPSHOT'
+main: me.mika.midomikaviewmarker.MidoMika_ViewMarker
+api-version: '1.19'
